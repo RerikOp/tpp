@@ -44,7 +44,7 @@ timepush("Computation Block");
 
 ## Example
 ```cpp
-#include "timepp.h"
+#include "timepp.hpp"
 
 void example_function() {
     timepush("Example");
