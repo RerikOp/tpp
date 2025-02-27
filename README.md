@@ -18,7 +18,7 @@ Simply include `timepp.hpp` in your project:
 No additional dependencies are required.
 
 ## Usage
-Examples can be found in [TimeppTest.cpp](TimeppTest.cpp)
+Examples can be found in [tpp-test.cpp](tpp-test.cpp)
 
 ### Measure a Statement
 ```cpp
