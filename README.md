@@ -1,4 +1,4 @@
-# Timepp - A Lightweight C++ Timing Utility
+# Time++ - A Lightweight C++ Timing Utility
 
 ## Overview
 Timepp is a simple yet powerful C++20 utility for measuring execution times of functions, statements, and code blocks. It provides an easy-to-use API to benchmark performance and gather statistical insights, including mean, median, min, and max execution times. A summary is printed automatically at the end of the program run (when static instances go out of scope). 
